@@ -1,5 +1,4 @@
 # Fire-Detection-Using-YoloV4
-# Some projects
 # 3 Main Steps:
 # Step 1: Create my own dataset with 2 files using LabelImg tool: 
 - Images
