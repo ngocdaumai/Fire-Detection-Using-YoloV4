@@ -13,3 +13,7 @@
 - coco_fire.names
 - yolov4-tiny_custom.cfg
 - yolov4-tiny_custom_last.weights
+# Results:
+- ![output1](https://user-images.githubusercontent.com/52019849/115096000-67136a80-9f5e-11eb-8db0-406c54926b0a.PNG)
+- ![output2](https://user-images.githubusercontent.com/52019849/115096003-68449780-9f5e-11eb-8eb6-7eceac055083.PNG)
+- ![output3](https://user-images.githubusercontent.com/52019849/115096005-68dd2e00-9f5e-11eb-912d-324f5f8704d1.PNG)
