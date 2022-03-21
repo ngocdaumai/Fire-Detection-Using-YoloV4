@@ -1,9 +1,9 @@
 # Fire-Detection-Using-YoloV4
 # 3 Main Steps:
-# Step 1: Create my own dataset with 2 files using LabelImg tool: 
+# Step 1: Create your own dataset with 2 files using LabelImg tool: 
 - Images
 - Text file that contains object's parameters: center X point, center Y point, width, height.
-# Step 2: Retrain YoloV4 with my own dataset with some following files:
+# Step 2: Retrain YoloV4 with your own dataset with some following files:
 - yolo.names
 - yolov4-tiny_custom.cfg
 - Makefile
