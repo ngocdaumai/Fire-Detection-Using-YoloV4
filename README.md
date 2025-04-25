@@ -17,3 +17,6 @@
 - ![output1](https://user-images.githubusercontent.com/52019849/115096000-67136a80-9f5e-11eb-8db0-406c54926b0a.PNG)
 - ![output2](https://user-images.githubusercontent.com/52019849/115096003-68449780-9f5e-11eb-8eb6-7eceac055083.PNG)
 - ![output3](https://user-images.githubusercontent.com/52019849/115096005-68dd2e00-9f5e-11eb-912d-324f5f8704d1.PNG)
+
+# Others:
+Our fire detection model was used in "Optimization of YOLOv4 and YOLOv4-tiny Models with Customized Configurations using Intel® Distribution of OpenVINO™ Toolkit" {https://builders.intel.com/solutionslibrary/optimization-of-yolov4-and-yolov4-tiny-models-with-customized-configurations-using-intel-distribution-of-openvino-toolkit}
